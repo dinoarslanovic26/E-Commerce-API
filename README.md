@@ -26,7 +26,7 @@
   Npm install to install you dependencies, then you want to go in your terminal and login to mysql to source the  schema, then you will want to seed the databse with node seeds/index.js. Finally you'll type in npm start and your local host will start this application.
   
   ## License
-  This project uses 
+  N/A
   
   
 
@@ -38,4 +38,4 @@
   ## Questions
 
  
-  Author: undefined GitHub: [dinoarslanovic26](https://github.com/dinoarslanovic26) Email: dino99arslanovic@hotmail.com
+GitHub: [dinoarslanovic26](https://github.com/dinoarslanovic26) Email: dino99arslanovic@hotmail.com
